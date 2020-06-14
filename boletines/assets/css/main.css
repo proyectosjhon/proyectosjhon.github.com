@@ -1,3 +1,9 @@
+.container{
+  background: #e96443; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #e96443, #904e95); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #e96443, #904e95);
+}
+
 body{
     background-color: aliceblue;
 }
